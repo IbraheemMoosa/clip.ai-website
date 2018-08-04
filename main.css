@@ -1,0 +1,104 @@
+body{
+  /*background: url(background.jpg);*/
+}
+
+ul{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+h1{
+  padding-top: 50px;
+  font-size: 100px;
+  padding-bottom: 15px;
+}
+
+#tle{
+  font-size: 130px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  background-color: = rgb(125,125,125);
+}
+
+#subtitle{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#sfull{
+  background-color: #f6bc1a;
+  box-shadow: 1px 2px 8px 2px #d6d6d6;
+}
+
+#s{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: #f8f9fa;
+}
+#s b{
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+
+#m{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 25px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+#m b{
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+
+#p{
+  padding-bottom: 100px;
+  padding-top: 100px;
+  padding-right: 100px;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: #f8f9fa;
+}
+#p b{
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+#pfull{
+  background-color: #f6bc1a;
+  box-shadow: 1px 2px 8px 2px #d6d6d6;
+}
+
+#secure{
+  padding-bottom: 100px;
+  padding-top: 100px;
+  padding-left: 100px;
+  text-align:center;
+  font-family: 'Quicksand', sans-serif;
+}
+#secure b{
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+
+#cross{
+  padding-left: 140px;
+}
+
+#ctrc{
+  padding-top: 50px;
+}
+
+#machine{
+  padding-top: 50px;
+  padding-left: 140px;
+}
+
+#security{
+  padding-top: 50px;
+  padding-left: 140px;
+}
